@@ -4,8 +4,9 @@
 **Version 1.0**  
 February 2026  
 
-**Author**  
+**Authors**  
 Christian Leinberger  
+Mario von Bassen
 
 **Published by**  
 Compute-Sponsoring.org  
